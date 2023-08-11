@@ -1,0 +1,32 @@
+[33m5fab78a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: pull --tags origin master: Merge made by the 'ort' strategy.
+[33m7cbfe8a[m HEAD@{1}: checkout: moving from dev2 to master
+[33mc031dc4[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{2}: reset: moving to c031dc4
+[33m43c355a[m HEAD@{3}: reset: moving to 43c355a
+[33mc031dc4[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{4}: commit: rebase modified commit
+[33ma651a4e[m HEAD@{5}: rebase (finish): returning to refs/heads/dev2
+[33ma651a4e[m HEAD@{6}: rebase (start): checkout origin/master
+[33ma651a4e[m HEAD@{7}: checkout: moving from master to dev2
+[33m7cbfe8a[m HEAD@{8}: commit: Rolled backed the master copy
+[33ma651a4e[m HEAD@{9}: checkout: moving from dev2 to master
+[33ma651a4e[m HEAD@{10}: checkout: moving from master to dev2
+[33ma651a4e[m HEAD@{11}: merge origin/master: Fast-forward
+[33m362216c[m HEAD@{12}: reset: moving to 362216c52281bfd7541fed0f1cbf691ed8efc919
+[33m362216c[m HEAD@{13}: reset: moving to 362216c52281bfd7541fed0f1cbf691ed8efc919
+[33m362216c[m HEAD@{14}: reset: moving to 362216c52281bfd7541fed0f1cbf691ed8efc919
+[33m362216c[m HEAD@{15}: reset: moving to 362216c52281bfd7541fed0f1cbf691ed8efc919
+[33ma651a4e[m HEAD@{16}: reset: moving to a651a4e
+[33m362216c[m HEAD@{17}: reset: moving to 362216c
+[33ma651a4e[m HEAD@{18}: reset: moving to a651a4e
+[33ma651a4e[m HEAD@{19}: checkout: moving from dev2 to master
+[33ma651a4e[m HEAD@{20}: checkout: moving from master to dev2
+[33ma651a4e[m HEAD@{21}: merge dev2: Fast-forward
+[33m362216c[m HEAD@{22}: checkout: moving from dev2 to master
+[33ma651a4e[m HEAD@{23}: merge origin/master: Fast-forward
+[33m43c355a[m HEAD@{24}: checkout: moving from master to dev2
+[33m362216c[m HEAD@{25}: reset: moving to 362216c52281bfd7541fed0f1cbf691ed8efc919
+[33m362216c[m HEAD@{26}: checkout: moving from dev2 to master
+[33m43c355a[m HEAD@{27}: commit: add some message about US
+[33m362216c[m HEAD@{28}: checkout: moving from dev1 to dev2
+[33m9149cb9[m[33m ([m[1;31morigin/dev1[m[33m, [m[1;32mdev1[m[33m)[m HEAD@{29}: commit: updated as Hi Australia
+[33m362216c[m HEAD@{30}: checkout: moving from master to dev1
+[33m362216c[m HEAD@{31}: commit (initial): adding note .txt
